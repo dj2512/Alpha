@@ -1,0 +1,27 @@
+
+.txt2 {
+	text-decoration: none;
+	color: black;
+	font-size: 13px;
+	position: relative;
+	padding: 0 10px;
+	transition: 0.25s ease-in-out all;
+	font-weight: 300;
+}
+    .txt2::before {
+        content: '';
+        position: absolute;
+        background: #57b846;
+        width: 2px;
+        height: 110%;
+        left: 0;
+        transition: 0.2s ease-in-out all;
+        z-index: -1;
+    }
+.txt2:hover::before {
+	width: 100%;
+}
+.txt2:hover {
+	color: #ffffff;
+	font-size: 15px;
+}
