@@ -21,7 +21,7 @@ That's all... now you can run the project.
 
 For any queries feel free to ping me.
 
-Devs: https://github.com/nvnprsd, me😁.
+Devs: https://github.com/nvnprsd, https://github.com/bhandarijaideep and me😁.
 
 ## [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
