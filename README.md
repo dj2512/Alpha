@@ -1,11 +1,11 @@
-# Alpha
+## Alpha
 A product similar to ERP software. This is exclusively meant for IT Gopeshwar.
 
 Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
-Installation:-
+## Installation:-
 
-1. $git clone https://github.com/printf-dj/Alpha.git or simply downlaod the zip file. 
+1. Clone the repo on local machine using command $git clone https://github.com/printf-dj/Alpha.git or simply downlaod the zip file. 
 
 2. Create a empty ASP.net website project in MS Visual Studio.
 
@@ -21,4 +21,8 @@ That's all... now you can run the project.
 
 For any queries feel free to ping me.
 
-Dev: @nvnprsd https://github.com/nvnprsd, me😁.
+Devs: https://github.com/nvnprsd, me😁.
+
+## [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
