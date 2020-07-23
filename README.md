@@ -20,3 +20,5 @@ Installation:-
 That's all... now you can run the project.
 
 For any queries feel free to ping me.
+
+Dev: https://github.com/nvnprsd, me😁.
