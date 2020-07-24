@@ -7,7 +7,7 @@ Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
 1. Clone the repo on local machine using command "$git clone https://github.com/printf-dj/Alpha.git" without quotes or simply downlaod the zip file. 
 
-2. Create a empty ASP.net website project in MS Visual Studio.
+2. Create an empty ASP.net website project in MS Visual Studio.
 
 3. Import all the files of the Alpha Rebranded folder to the project's solution created in step 2.
 
