@@ -5,7 +5,7 @@ Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
 ## Installation:-
 
-1. Clone the repo on local machine using command $git clone https://github.com/printf-dj/Alpha.git or simply downlaod the zip file. 
+1. Clone the repo on local machine using command "$git clone https://github.com/printf-dj/Alpha.git" without quotes or simply downlaod the zip file. 
 
 2. Create a empty ASP.net website project in MS Visual Studio.
 
