@@ -26,11 +26,6 @@
     <!--===============================================================================================-->
 </head>
 <body>
-    <div class="transition d-none">
-        <div class="layer"></div>
-        <div class="layer"></div>
-        <div class="layer"></div>
-    </div>
     <div class="limiter">
         <div class="container-login100">
             <div class="wrap-login100">
@@ -56,11 +51,11 @@
 
                         <div class="flex-sb-m w-full p-b-30">
 
-                            <Button ID="demo-show-toast" type="button" class="mdl-button--accent">Forget Password?</button>
-                        <div id="demo-toast-example" class="mdl-js-snackbar mdl-snackbar">
-                            <div class="mdl-snackbar__text"></div>
-                            <button class="mdl-snackbar__action" type="button"></button>
-                        </div>
+                            <button id="demo-show-toast" type="button" class="mdl-button--accent">Forget Password?</button>
+                            <div id="demo-toast-example" class="mdl-js-snackbar mdl-snackbar">
+                                <div class="mdl-snackbar__text"></div>
+                                <button class="mdl-snackbar__action" type="button"></button>
+                            </div>
 
                         </div>
 
@@ -81,9 +76,8 @@
                             </a>
                         </div>
                         <div>
-                        
-                            </div>  
                         </div>
+                    </div>
                     </form>
                 </div>
             </div>
@@ -109,7 +103,7 @@
                 snackbarContainer.MaterialSnackbar.showSnackbar(data);
             });
         }());
-</script>
+    </script>
     <!--================================================================================for error provide and handling===============-->
     <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
     <script src="mdl/material.min.js"></script>
