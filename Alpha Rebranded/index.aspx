@@ -8,7 +8,6 @@
     <title>SignIn @ IT Gopeshwar</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/loadingstyle.css" rel="stylesheet" />
     <link href="css/linkhover.css" rel="stylesheet" />
     <!--===============================================================================================-->
     <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
@@ -26,11 +25,6 @@
     <!--===============================================================================================-->
 </head>
 <body>
-    <div class="transition d-none">
-        <div class="layer"></div>
-        <div class="layer"></div>
-        <div class="layer"></div>
-    </div>
     <div class="limiter">
         <div class="container-login100">
             <div class="wrap-login100">

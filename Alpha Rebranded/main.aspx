@@ -22,7 +22,6 @@
     <!--====================================================for spacing between textbox and linkss======-->
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
-    <link href="css/loadingstyle.css" rel="stylesheet" />
     <!--===============================================================================================-->
 </head>
 <body>
