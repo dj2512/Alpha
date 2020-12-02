@@ -13,7 +13,7 @@ Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
 4. In MSSQL create a new database and create tables, for inforamtion about the tables kindly ping me.
 
-5. From MSSQl copy the connection string of the database you created.
+5. From MSSQL copy the connection string of the database you created.
 
 6. In Visual Studio open the Web.config file and update the connection string with the one you copied in step 4.
 
