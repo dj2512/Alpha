@@ -21,7 +21,7 @@ That's all... now you can run the project.
 
 For any queries feel free to ping me.
 
-Devs: [Naveen Prasad](https://github.com/nvnprsd), https://github.com/menub, https://github.com/S-CAP and me😁.
+Devs: [Naveen Prasad](https://github.com/nvnprsd), [Jaideep Singh](https://github.com/menub), [Shubham Thapliyal](https://github.com/S-CAP) and me😁.
 
 ## [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
