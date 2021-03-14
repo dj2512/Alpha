@@ -19,7 +19,6 @@ Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
 That's all... now you can run the project.
 
-
 Devs: [Naveen Prasad](https://github.com/nvnprsd), [Jaideep Bhandari](https://github.com/menub), [Shubham Thapliyal](https://github.com/S-CAP) and me😁.
 
 ## [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
