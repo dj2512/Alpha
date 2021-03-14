@@ -1,5 +1,5 @@
 ## Alpha
-A product similar to ERP software. This is exclusively meant for IT Gopeshwar.
+A web portal exclusively meant for IT Gopeshwar.
 
 Requirements: Microsoft Visual Studio, Micorsoft SQL Server.
 
